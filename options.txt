@@ -1,0 +1,3 @@
+controls: ZQSD
+fullscreen: False
+resolution: 1600x900

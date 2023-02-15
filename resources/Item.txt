@@ -1,0 +1,14 @@
+00/Calculatrice/LevelUp/Maths/
+01/Oscillateur/LevelUp/Physique/
+02/Tableau Periodique/LevelUp/Chimie/
+03/Moteur/LevelUp/SI/
+04/Livre/LevelUp/Francais/
+05/Tirelitler/LevelUp/Langues/
+06/Ordinateur/LevelUp/Informatique/
+07/Formules/Composant/ /
+08/Fils Electriques/Composant/ /
+09/Elements/Composant/ /
+10/Engrenages/Composant/ /
+11/Pages/Composant/ /
+12/Poils de Moustache/Composant/ /
+13/Circuit Imprime/Composant/ /

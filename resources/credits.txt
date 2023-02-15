@@ -1,0 +1,59 @@
+PrepaWars
+Tales of the 5/2
+
+
+Direction du projet
+ISSELIN Dorian
+BOUVEAU Augustin
+
+
+Visuels:
+ISSELIN Dorian
+LINELL-BOUTEAU Heather-Jane
+alias Heather-Jacques
+
+Sacro-sainte artiste:
+COLIN Lola
+
+
+Programmeurs:
+
+Menus et sauvegardes
+PEROL Julien
+LANGUILLE Antoine Σ
+
+Monde
+ISSELIN Dorian
+LINELL-BOUTEAU Heather-Jane
+
+Combat
+FARTHOUAT Hugues
+DALBEIGUE Adrien
+
+Entités
+COLOMER Léa
+BOUVEAU Augustin
+
+Inventaire et compétences
+MASCHIO Victor
+LAFUE Thibaut - Tybalt
+
+
+Toute resemblance avec les
+Classes préparatoires à CPE Lyon
+serait purement fortuite
+
+Idée originale:
+BOUVEAU Augustin
+ISSELIN Dorian
+
+
+Année 2020-2021
+SPÉ E 
+Gr 2
+
+Professeur:
+M. X.TROUILLOT
+
+Merci d'avoir joué !
+On corrigera peut être les bugs un jour...

@@ -1,0 +1,20 @@
+00/Acquis/TP hasardeux/player/critique/18/20/Augmente vos chances de critiques (en espérant que rien n'explose)./
+01/Acquis/Trivial/enemy/vie/50/40/Particulièrement efficace pour se sortir d'une situation complexe grâce à ses dégâts élevés./
+02/Acquis/Bilan de puissance/player,enemy/attaque,vie/10,32/90/Moyennement efficace, c'est néanmoins un très bon moyen de commencer un problème grâce à ses dégâts modérés et l'augmentation de votre puissance d'attaque./
+03/Acquis/Pause café/player/vie/25/8/Le meilleur moyen de souffler entre deux cours et de récupérer quelques points de vie./
+04/NonAqcuis/Soutien/player/attaque/25/35/Rien de mieux qu'un peu de soutien pour rattraper son retard et augmenter son attaque !/
+05/NonAqcuis/Press Revue/player,enemy/vie,vie/20,40/67/Toujours un dur moment à passer, profitez-en pour détendre un peu l'atmosphère en drainant la vie de votre opposant./
+06/NonAqcuis/Parrainage/player,enemy/defense,vie/10,35/55/Une aide parfaite pour bien commencer l'année. Inflige des dégâts modérés tout en augmentant votre défense./
+07/NonAqcuis/Analyse-synthèse/enemy,enemy/vie,poison/28,5/68/Toujours long et fastidieux mais diablement efficace grâce à ses dégâts modérés et son effet de poison./
+08/NonAqcuis/Confinement/player/defense/20/60/Une très bonne trouvaille pour éviter tous les problèmes de l'école, à distance votre défense est augmentée !/
+09/NonAqcuis/Voyage au Japon/player,player/attaque,defense/16,12/01/Tout le monde sait qu'il n'arrivera jamais, mais rien n'empêche de s'y préparer en augmentant l'attaque et la défense./
+10/NonAqcuis/Libretto/enemy,enemy,enemy,enemy/vie,vie,vie,vie/25,25,15,15/99/Il est déjà dur pour un prof d'écouter un élève raconter ce qu'il n'a pas compris d'une oeuvre, alors en entendre 4 ! Particulièrement efficace contre les profs de Français./
+11/NonAqcuis/Maxi tacos/player,player/vie,esquive/100,-5/02/Un repos bien mérité rendant une grande quantité de vie, mais diminuant l'esquive./
+12/NonAqcuis/WES et WEI/player,enemy/critique,vie/8,40/30/Les meilleures soirées ! L'alcool augmente légèrement vos chances de critiques et vous permet d'infliger des dégâts modérés à votre adversaire./
+13/NonAqcuis/Magie de SI/ enemy,enemy/vie,esquive/55,5/42/C'est sympa la SI, un peu de fantaisie et tout est plus simple Réduit l'esquive de votre opposant en lui infligeant de lourds dégâts./
+14/NonAqcuis/Démonstration Admise/enemy,enemy/vie,critique/45,7/65/Inflige des dégâts modérés et réduit les chances de critiques de votre adversaire pour rendre vos colles plus faciles./
+15/NonAqcuis/Division par zéro/enemy,enemy/esquive,vie/5,85/10/La majorité pensent que c'est interdit, pourtant tout le monde l'utilise quand la situation devient trop complexe pour achever l'exercice. Inflige des dégâts extrèmes en réduisant légèrement l'esquive de vote cible/
+16/NonAqcuis/Simplification arbitraire/enemy,enemy/vie,attaque/32,7/20/Ta gueule c'est quantique !/
+17/NonAqcuis/BDE/player,player/attaque,defense/10,12/65/Devenez une des S.T.A.R.S de la prépa : même Gangeur ne pourra surmonter cette augmentation d'attaque et de défense ! /
+18/NonAqcuis/Cas contact/player,player/vie,dodo/180,2/90/soustrayez-vous au travail et profitez-en pour vous reposer. Rend une quantité démesurée de vie mais vous endort./
+19/NonAqcuis/Covid/enemy/covid/15/10/Empoisonnez votre adversaire pour en venir à bout plus facilement !/

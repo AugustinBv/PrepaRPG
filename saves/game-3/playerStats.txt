@@ -1,0 +1,12 @@
+difficulty: 1.2
+stats: {'damage': 25, 'dodge': 1, 'heal': 10, 'defense': 3, 'aptDebuff': 1, 'resistanceDebuff': 1, 'crits': 1, 'hp': 60, 'hpMax': 60}
+skills: ['00', '01', '02', '03']
+achievements: {}
+classe: Num
+xp: 0
+maxXp: 100
+name: baert
+niveauS: Sup
+lvl: 1
+depressed: 0
+money: 0

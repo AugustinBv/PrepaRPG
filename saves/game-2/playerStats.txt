@@ -1,0 +1,12 @@
+difficulty: 1.2
+stats: {'damage': 487.9, 'dodge': 21.28, 'heal': 274.7, 'defense': 264.0, 'aptDebuff': 60.0, 'resistanceDebuff': 50.0, 'crits': 30.6, 'hp': 435, 'hpMax': 435}
+skills: ['13', '15', '07', '11']
+achievements: {}
+classe: Num
+xp: 96388
+maxXp: 123107
+name: Augustin
+niveauS: Spe
+lvl: 76
+depressed: 100
+money: 10214
