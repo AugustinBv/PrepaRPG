@@ -12,17 +12,20 @@ Move using ZQSD or WASD keys (options), press Left Shift to run, Echap to pause 
 Don't forget to regularly save !
 Beware the volume, might be a bit high.
 
-## World : Dorian ISSELIN and Heather-Jane LINELL-BOUTAUD
+## World :
+* Dorian ISSELIN and Heather-Jane LINELL-BOUTAUD
 In charge of the map on which the player moves as well as taking care of how the player moves and interracts with the environment.
 
-## Entities : Augustin BOUVEAU and Léa COLOMER
+## Entities
+* Augustin BOUVEAU and Léa COLOMER
 In charge of the player entity, the monsters/enemis, bosses and others. Takes care of all the interactions.
 
 ## Menus, Saves and Music : Antoine LANGUILLE and Julien PEROL
 In charge of the browsing and features of the menus, from the main one to the merchants. You can save and load up to 3 games. 
 Also took care of the musics and sound effects in the game.
 
-## Fights : Adrien DALBEIGUE and Hugues FARTHOUAT
+## Fights
+* Adrien DALBEIGUE and `[Hugues FARTHOUAT](https://github.com/HuguesFARTH)`
 Takes care of the fights' display and mechanics, using all the players' and enemies' stats. 
 
 ## Inventory : Thibaut LAFUE and Victor MASCHIO
