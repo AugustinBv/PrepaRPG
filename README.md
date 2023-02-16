@@ -25,7 +25,7 @@ In charge of the browsing and features of the menus, from the main one to the me
 Also took care of the musics and sound effects in the game.
 
 ## Fights
-* Adrien DALBEIGUE and `[Hugues FARTHOUAT](https://github.com/HuguesFARTH)`
+* Adrien DALBEIGUE and [`Hugues FARTHOUAT`](https://github.com/HuguesFARTH)
 Takes care of the fights' display and mechanics, using all the players' and enemies' stats. 
 
 ## Inventory : Thibaut LAFUE and Victor MASCHIO
