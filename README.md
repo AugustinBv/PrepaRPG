@@ -61,25 +61,30 @@ Attention au volume des musiques.
 
 ## Monde : 
 * [`Dorian ISSELIN`](https://github.com/12dorian12) et [`Heather-Jane LINNELL-BOUTAUD`](https://github.com/heather-jane)
+
 Cette partie s’occupe de créer la map dans laquelle se déplace le joueur, et de gérer les déplacements du personnage et son interaction avec son environnement.
 
  
 ## Entités : 
 * [`Augustin BOUVEAU`](https://github.com/AugustinBv) et [`Léa COLOMER`](https://github.com/leaColomer)
+
 Dans cette partie nous avons créé une classe pour le joueur et une classe pour les monstres/ennemis, les classes pour les boss et les ennemis plus faibles ,tels que les minorants, sont basés sur la classe monstre. Dans ces classes se trouvent des fonctions permettant le bon fonctionnement du jeu avec les entités.
 
  
 ## Menus : 
 * [`Antoine LANGUILLE`](https://github.com/MaximilianTyan) et [`Julien PEROL`](https://github.com/CpeProl)
+
 La partie Saves&Menus (&Musiques) se charge de la navigation et des fonctionnalités de chaque menus du menu principal aux différents marchands. La partie sauvegarde enregistre les parties, les recharge et les réinitialise. La partie Musiques se charge des musiques et des sons correspondant aux différents menus/zones et interactions.
  
 ## Combats : 
 * [`Adrien DALBEIGUE`](https://github.com/Adri1D) et [`Hugues FARTHOUAT`](https://github.com/HuguesFARTH)
+
 La partie combat s'occupe d'afficher et de gérer le fonctionnement des combats en  prenant en considération toutes les statistiques du joueur et de l'ennemi. (Adrien: partie calcul et fonctionnement global du combat / Hugues : partie affichage et option visuelle) 
 
  
 ## Inventaire : 
 * [`Thibaut LAFUE`](https://github.com/losth230) et [`Victor MASCHIO`](https://github.com/VictorMaschio)
+
 Dans la partie inventaire/compétences, nous avons créé l'inventaire, les items et les compétences. Tout cela en restant lié aux groupes combats et menus dans le but de leur transmettre des ressources/valeurs simples à utiliser pour eux.
 
 
