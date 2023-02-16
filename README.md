@@ -13,28 +13,28 @@ Don't forget to regularly save !
 Beware the volume, might be a bit high.
 
 ## World :
-* `Dorian ISSELIN` and `Heather-Jane LINNELL-BOUTAUD`
+* [`Dorian ISSELIN`](https://github.com/12dorian12) and [`Heather-Jane LINNELL-BOUTAUD`](https://github.com/heather-jane)
 
 In charge of the map on which the player moves as well as taking care of how the player moves and interracts with the environment.
 
 ## Entities
-* `Augustin BOUVEAU` and `Léa COLOMER`
+* [`Augustin BOUVEAU`](https://github.com/AugustinBv) and [`Léa COLOMER`](https://github.com/leaColomer)
 
 In charge of the player entity, the monsters/enemis, bosses and others. Takes care of all the interactions.
 
 ## Menus, Saves and Music
-* `Antoine LANGUILLE` and `Julien PEROL`
+* [`Antoine LANGUILLE`](https://github.com/MaximilianTyan) and [`Julien PEROL`](https://github.com/CpeProl)
 
 In charge of the browsing and features of the menus, from the main one to the merchants. You can save and load up to 3 games. 
 Also took care of the musics and sound effects in the game.
 
 ## Fights
-* `Adrien DALBEIGUE` and [`Hugues FARTHOUAT`](https://github.com/HuguesFARTH)
+* [`Adrien DALBEIGUE`](https://github.com/Adri1D) and [`Hugues FARTHOUAT`](https://github.com/HuguesFARTH)
 
 Takes care of the fights' display and mechanics, using all the players' and enemies' stats. 
 
 ## Inventory
-* `Thibaut LAFUE` and `Victor MASCHIO`
+* [`Thibaut LAFUE`](https://github.com/losth230) and [`Victor MASCHIO`](https://github.com/VictorMaschio)
 
 Took care of the inventory, the items and skills while working a lot with the menus and fights parts to make sure everything is compatible.
 
@@ -45,7 +45,7 @@ Special thanks to Lola COLIN for her drawings, which saved this game's esthetics
 
 
 
-
+# PrepaRPG FR
 
 
 
@@ -59,22 +59,22 @@ Déplacez vous à l'aide des touches ZQSD ou des flêches, appuyez sur Shift (Ma
 N'oubliez pas de sauvegarder régulièrement !
 Attention au volume des musiques.
 
-## Monde : Dorian Isselin et Heather-Jane Linnell-Boutaud
+## Monde : [`Dorian ISSELIN`](https://github.com/12dorian12) et [`Heather-Jane LINNELL-BOUTAUD`](https://github.com/heather-jane)
 Cette partie s’occupe de créer la map dans laquelle se déplace le joueur, et de gérer les déplacements du personnage et son interaction avec son environnement.
 
  
-## Entités : Augustin Bouveau et Léa Colomer
+## Entités : [`Augustin BOUVEAU`](https://github.com/AugustinBv) et [`Léa COLOMER`](https://github.com/leaColomer)
 Dans cette partie nous avons créé une classe pour le joueur et une classe pour les monstres/ennemis, les classes pour les boss et les ennemis plus faibles ,tels que les minorants, sont basés sur la classe monstre. Dans ces classes se trouvent des fonctions permettant le bon fonctionnement du jeu avec les entités.
 
  
-## Menus : Antoine Languille et Julien Pérol
+## Menus : [`Antoine LANGUILLE`](https://github.com/MaximilianTyan) et [`Julien PEROL`](https://github.com/CpeProl)
 La partie Saves&Menus (&Musiques) se charge de la navigation et des fonctionnalités de chaque menus du menu principal aux différents marchands. La partie sauvegarde enregistre les parties, les recharge et les réinitialise. La partie Musiques se charge des musiques et des sons correspondant aux différents menus/zones et interactions.
  
-## Combats : Adrien Dalbeigue et Hugues Farthouat
+## Combats : [`Adrien DALBEIGUE`](https://github.com/Adri1D) et [`Hugues FARTHOUAT`](https://github.com/HuguesFARTH)
 La partie combat s'occupe d'afficher et de gérer le fonctionnement des combats en  prenant en considération toutes les statistiques du joueur et de l'ennemi. (Adrien: partie calcul et fonctionnement global du combat / Hugues : partie affichage et option visuelle) 
 
  
-## Inventaire : Thibaut Lafue et Victor Maschio
+## Inventaire : [`Thibaut LAFUE`](https://github.com/losth230) et [`Victor MASCHIO`](https://github.com/VictorMaschio)
 Dans la partie inventaire/compétences, nous avons créé l'inventaire, les items et les compétences. Tout cela en restant lié aux groupes combats et menus dans le but de leur transmettre des ressources/valeurs simples à utiliser pour eux.
 
 
