@@ -13,7 +13,7 @@ Don't forget to regularly save !
 Beware the volume, might be a bit high.
 
 ## World :
-* `Dorian ISSELIN` and `Heather-Jane LINELL-BOUTAUD`
+* `Dorian ISSELIN` and `Heather-Jane LINNELL-BOUTAUD`
 
 In charge of the map on which the player moves as well as taking care of how the player moves and interracts with the environment.
 
@@ -59,7 +59,7 @@ Déplacez vous à l'aide des touches ZQSD ou des flêches, appuyez sur Shift (Ma
 N'oubliez pas de sauvegarder régulièrement !
 Attention au volume des musiques.
 
-## Monde : Dorian Isselin et Heather-Jane Linell-Boutaud
+## Monde : Dorian Isselin et Heather-Jane Linnell-Boutaud
 Cette partie s’occupe de créer la map dans laquelle se déplace le joueur, et de gérer les déplacements du personnage et son interaction avec son environnement.
 
  
