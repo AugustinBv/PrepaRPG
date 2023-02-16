@@ -23,7 +23,7 @@ Also took care of the musics and sound effects in the game.
 Fights : Adrien DALBEIGUE and Hugues FARTHOUAT
 Takes care of the fights' display and mechanics, using all the players' and enemies' stats. 
 
-Inventory :
+Inventory : Thibaut LAFUE and Victor MASCHIO
 Took care of the inventory, the items and skills while working a lot with the menus and fights parts to make sure everything is compatible.
 
 
