@@ -88,7 +88,7 @@ class Combat():
                     self.addDialogue("Vous perdez "+str(montant)+" hp",1)
 
                 if i[1]=='attaque' and i[2]>0:
-                    self.player.damageTemp += i[2]*self.player.damageTemp/100     #influe sur la stat temp
+                    self.player.damageTemp += i[2]*self.player.damageTemp/100     #influe sur la stat damage temp
                     self.addDialogue("Vous augmentez votre attaque",1)
                 if i[1]=='attaque' and i[2]<0:
                     if self.player.damageTemp>i[2]*self.player.damageTemp/100:
